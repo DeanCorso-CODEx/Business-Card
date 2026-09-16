@@ -1,6 +1,7 @@
 {
   "name": "Scrim-s027ic2",
   "description": "https://scrimba.com/fullstack-path-c0fullstack/~02e/s0h4bf5ccm/head",
+  "type": "module",
   "scripts": {
     "start": "vite",
     "dev": "vite",
