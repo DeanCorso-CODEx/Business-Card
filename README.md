@@ -1,9 +1,15 @@
-# Getting Started
-Install the dependencies and run the project
-```
+# 📇 Business Card Project
+
+✨ **Live Demo:** [Check out the final result here!](https://vermillion-shortbread-545c4f.netlify.app/) ✨
+
+---
+
+## Getting Started
+Install the dependencies and run the project:
+```text
 npm install
 npm start
-```
+
 
 Head over to https://vitejs.dev/ to learn more about configuring vite
 ## About Scrimba
