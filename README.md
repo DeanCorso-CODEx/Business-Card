@@ -1,6 +1,6 @@
 # 📇 Business Card Project
 
-✨ **Live Demo:** [Check out the final result here!](https://vermillion-shortbread-545c4f.netlify.app/) ✨
+✨ **Live Demo:** [Check out the final result here!](https://business-card.p44twm7j52.workers.dev) ✨
 
 ---
 
